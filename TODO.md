@@ -20,3 +20,4 @@
  - UDO?
  - Panning possibility on all OSC
  - GUI
+ - Folder of wavetables is accessible from plugin
