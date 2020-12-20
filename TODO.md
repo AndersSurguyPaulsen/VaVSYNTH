@@ -1,3 +1,22 @@
 # Feature list:
 
- - Not restricted to two tables
+ - Not restricted to two OSC
+ - Should it be a restriction?
+ - FM across all oscilators
+ - 3 envelopes freely assignable
+ - 3 LFOs, freely assignable
+ - Filter with different types
+ - Oscialtor basic shapes in addition to the wavetable(?)
+ - Graphical preview of wavetables/OSC
+ - Graohical preview of filter(?)
+ - Display - list
+ - Envelopes and LFOs static at the bottom
+ - Possibility to add as many OSC as you want
+ - (?MATRISE?)
+ - Noise OSC
+ - Transpose, semitones, finetune
+ - Unison(8? 16?)
+ - Phaseshift possibility in unison
+ - UDO?
+ - Panning possibility on all OSC
+ - GUI
