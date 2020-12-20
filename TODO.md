@@ -1,7 +1,7 @@
 # Feature list:
 
  - Not restricted to two OSC
- - Should it be a restriction?
+ - Should there even be a restriction?
  - FM across all oscilators
  - 3 envelopes freely assignable
  - 3 LFOs, freely assignable
