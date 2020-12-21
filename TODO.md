@@ -17,6 +17,7 @@
  - Transpose, semitones, finetune
  - Unison(8? 16?)
  - Phaseshift possibility in unison
+ - Pitch randomization knob, with randomization range
  - UDO?
  - Panning possibility on all OSC
  - GUI
