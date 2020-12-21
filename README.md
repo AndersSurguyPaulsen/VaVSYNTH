@@ -1,2 +1,2 @@
 # VaVSYNTH
-wavetable synth project in csound
+Csound based wavetable synth.
