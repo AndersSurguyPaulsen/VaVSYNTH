@@ -1,5 +1,0 @@
-opcode Wavetable, kFreq
-
-
-
-endop

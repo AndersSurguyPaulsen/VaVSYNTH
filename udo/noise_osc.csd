@@ -1,5 +1,0 @@
-opcode Noise, kFreq
-
-
-
-endop
