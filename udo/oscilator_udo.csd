@@ -1,0 +1,5 @@
+opcode Oscilator, kFreq
+
+
+
+endop
