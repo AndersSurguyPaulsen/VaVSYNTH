@@ -1,0 +1,5 @@
+opcode BasicShape, kFreq
+
+
+
+endop
