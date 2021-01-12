@@ -1,4 +1,5 @@
 <Cabbage>
+#include gui.csd
 </Cabbage>
 <CsoundSynthesizer>
 <CsOptions>
